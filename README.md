@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I' m Nilo, a front-end developer from Johannesburg, South Africa
+
 
 <!--
 **niloc95/niloc95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

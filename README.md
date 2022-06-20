@@ -1,4 +1,4 @@
-### Hi there 👋 I' m Nilo, a front-end developer from Johannesburg, South Africa
+### Hi there 👋 I' m Nilo, a front-end software engineer from Johannesburg, South Africa
 
 <div id="header" align="center">
   <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" width="450"/>
